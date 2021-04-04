@@ -1,9 +1,9 @@
 # MakerLab_AP_ROS_SLAM
-Developer: Pranav_Sree_Rajhen
+Developer : Pranav_Sree_Rajhen
 
-Email:psraajhen@gmail.com
+Email :psraajhen@gmail.com
 
-Date:04.04.2021
+Date :04.04.2021
 ![Logo5_path_png-1024x712](https://user-images.githubusercontent.com/51743743/113521464-e46fd000-9599-11eb-9cd1-e5ba5ea0cecf.png)
 
 How to install ROS on raspberry pi 3 B+ and PC
