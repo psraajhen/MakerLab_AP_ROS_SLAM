@@ -13,14 +13,23 @@ Step 3:Installing ROS kinetic on Raspberry pi
 link:https://www.intorobotics.com/how-to-install-ros-kinetic-on-raspberry-pi-3-running-raspbian-stretch-lite/#:~:text=%20%20%201%20Step%201%3A%20Download%20and,don%E2%80%99t%20want%20to%20repeat%20the%20installation...%20More%20
 
 Step 4:Changing of IP address in bashrc 
+
 PC is the master 
 Raspberry PI is the slave
 
-to get ipaddress from window cmd 
-ipconfig
+to get ipaddress from Ubuntu / Raspberry open terminal
+type "ifconfig"
 
-to get ipaddress from Ubuntu / Raspberry
-ifconfig
+to get into bashrc type
+
+nano ~/.bashrc
+//////////////////////////////////////////////////////////////////////////
+for example  it looks like this 
+![network_configuration3](https://user-images.githubusercontent.com/51743743/113521895-c9528f80-959c-11eb-90f3-a012592701fe.png)
+
+/////////////////////////////////////////////////////////////////////////
+then type
+source ~/.bashrc
 
 Step 5:Installing lidar depend on the lidar you use 
 
