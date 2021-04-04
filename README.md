@@ -15,6 +15,7 @@ link:https://www.intorobotics.com/how-to-install-ros-kinetic-on-raspberry-pi-3-r
 Step 4:Changing of IP address in bashrc 
 
 PC is the master 
+
 Raspberry PI is the slave
 
 to get ipaddress from Ubuntu / Raspberry open terminal
