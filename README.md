@@ -1,9 +1,6 @@
 # MakerLab_AP_ROS_SLAM
 ![Logo5_path_png-1024x712](https://user-images.githubusercontent.com/51743743/113521464-e46fd000-9599-11eb-9cd1-e5ba5ea0cecf.png)
 
-Project developer: Pranav Sree Rajhen, Santhana Gopalan
-email:psraajhen@gmail.com
-
 How to install ROS on raspberry pi 3 B+ and PC
 
 Step 1: Installing ROS kinetic in Ubuntu 16.04
