@@ -23,11 +23,14 @@ type "ifconfig"
 to get into bashrc type
 
 nano ~/.bashrc
+
 //////////////////////////////////////////////////////////////////////////
 for example  it looks like this 
+
 ![network_configuration3](https://user-images.githubusercontent.com/51743743/113521895-c9528f80-959c-11eb-90f3-a012592701fe.png)
 
 /////////////////////////////////////////////////////////////////////////
+
 then type
 source ~/.bashrc
 
