@@ -42,6 +42,7 @@ source ~/.bashrc
 Step 5:Installing lidar depend on the lidar you use 
 
 Here I use inno make - LIDAR - 06
+
 link:http://wiki.inno-maker.com/display/HOMEPAGE/LD06?preview=/6949506/6949511/LDROBOT_LD06_Development%20manual_v1.0_en.pdf
 
 Step 6:Communication between Arduino UNO and Raspberry PI
