@@ -7,15 +7,11 @@ Step 1: Installing ROS kinetic in Ubuntu 16.04
 
 Link:http://wiki.ros.org/kinetic/Installation/Ubuntu
 
-Step 2:Download Raspbian distribution OS in sd card minimum of 8GB
+Step 2:Download Raspbian distribution OS in sd card minimum of 8GB with (kinetic pre-installed) 
 
-link:https://www.raspberrypi.org/software/operating-systems/#raspberry-pi-os-32-bit
+link:https://downloads.ubiquityrobotics.com/pi.html
 
-Step 3:Installing ROS kinetic on Raspberry pi
-
-link:https://www.intorobotics.com/how-to-install-ros-kinetic-on-raspberry-pi-3-running-raspbian-stretch-lite/#:~:text=%20%20%201%20Step%201%3A%20Download%20and,don%E2%80%99t%20want%20to%20repeat%20the%20installation...%20More%20
-
-Step 4:Changing of IP address in bashrc 
+Step 3:Changing of IP address in bashrc 
 
 PC is the master 
 
@@ -39,13 +35,13 @@ for example  it looks like this
 then type
 source ~/.bashrc
 
-Step 5:Installing lidar depend on the lidar you use 
+Step 4:Installing lidar depend on the lidar you use 
 
 Here I use inno make - LIDAR - 06
 
 link:http://wiki.inno-maker.com/display/HOMEPAGE/LD06?preview=/6949506/6949511/LDROBOT_LD06_Development%20manual_v1.0_en.pdf
 
-Step 6:Communication between Arduino UNO and Raspberry PI
+Step 5:Communication between Arduino UNO and Raspberry PI
 
 
 
