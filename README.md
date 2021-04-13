@@ -49,7 +49,7 @@ Step 6: Test Ultransonic sensor with serial connection on Arduino IDE. It looks 
 
 ![1_test_ultrasonic_sensor](https://user-images.githubusercontent.com/51743743/114633036-21d20d00-9cc0-11eb-9a55-1b978e7ce5ca.jpg)
 
-Step 7: Bulid the chasis with two either with prebuild chasis or DIY 3d printed chasis 
+Step 7: Bulid the chasis with 2wd either with prebuild chasis or DIY 3d printed chasis 
 
 here I use the pre build chasis 
 
