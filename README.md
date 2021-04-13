@@ -43,7 +43,8 @@ link:http://wiki.inno-maker.com/display/HOMEPAGE/LD06?preview=/6949506/6949511/L
 
 Step 5:Desgin the Obstacle avoidance rover using Arduino UNO with HC-SR04 Ultrasonic Distance Sensor and H-bride driver
 
-![SELF PARKING VEHICLE_bb](https://user-images.githubusercontent.com/51743743/114632514-22b66f00-9cbf-11eb-965d-fd0b15f1fc8f.png)
+![hcsr04_ultrasonic_distance_sensor_bb (1)](https://user-images.githubusercontent.com/51743743/114632593-4e395980-9cbf-11eb-9b58-5ade2502d889.jpg)
+
 
 
 
