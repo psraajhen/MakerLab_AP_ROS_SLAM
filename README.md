@@ -45,6 +45,19 @@ Step 5:Desgin the Obstacle avoidance rover using Arduino UNO with HC-SR04 Ultras
 
 ![hcsr04_ultrasonic_distance_sensor_bb (1)](https://user-images.githubusercontent.com/51743743/114632593-4e395980-9cbf-11eb-9b58-5ade2502d889.jpg)
 
+Step 6: Test Ultransonic sensor with serial connection on Arduino IDE. It looks like this!!!!
+
+![1_test_ultrasonic_sensor](https://user-images.githubusercontent.com/51743743/114633036-21d20d00-9cc0-11eb-9a55-1b978e7ce5ca.jpg)
+
+Step 7: Bulid the chasis with two either with prebuild chasis or DIY 3d printed chasis 
+
+here I use the pre build chasis 
+
+https://www.amazon.de/-/en/Dollatek-Chassis-Encoder-Battery-Arduino/dp/B07F73HY34/ref=sr_1_18?dchild=1&hvadid=80401826393546&hvbmt=be&hvdev=c&hvqmt=e&keywords=2wd+chassis&qid=1618356320&sr=8-18
+
+Step 8: Create the Launch in Raspberry pi
+
+
 
 
 
