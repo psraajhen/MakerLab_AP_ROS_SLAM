@@ -41,7 +41,10 @@ Here I use inno make - LIDAR - 06
 
 link:http://wiki.inno-maker.com/display/HOMEPAGE/LD06?preview=/6949506/6949511/LDROBOT_LD06_Development%20manual_v1.0_en.pdf
 
-Step 5:Communication between Arduino UNO and Raspberry PI
+Step 5:Desgin the Obstacle avoidance rover using Arduino UNO with HC-SR04 Ultrasonic Distance Sensor and H-bride driver
+
+
+https://automaticaddison.com/wp-content/uploads/2021/04/hcsr04_ultrasonic_distance_sensor_bb.jpg
 
 
 
