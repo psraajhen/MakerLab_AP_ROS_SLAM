@@ -44,7 +44,7 @@ link:http://wiki.inno-maker.com/display/HOMEPAGE/LD06?preview=/6949506/6949511/L
 Step 5:Desgin the Obstacle avoidance rover using Arduino UNO with HC-SR04 Ultrasonic Distance Sensor and H-bride driver
 
 
-https://automaticaddison.com/wp-content/uploads/2021/04/hcsr04_ultrasonic_distance_sensor_bb.jpg
+https://th.bing.com/th/id/OIP.19ZFd0jqvrdpZS2Y-PfOmgHaEG?pid=ImgDet&rs=1
 
 
 
